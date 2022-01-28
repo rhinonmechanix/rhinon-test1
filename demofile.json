@@ -1,0 +1,7 @@
+Forum
+ProductCatalog
+Reply
+Thread
+users
+{'username': 'janedoe', 'account_type': 'standard_user', 'last_name': 'Doe', 'first_name': 'Jane', 'age': Decimal('25')}
+{'username': 'dev', 'account_type': 'standard_user', 'last_name': 'Doe', 'first_name': 'john', 'age': Decimal('25')}
